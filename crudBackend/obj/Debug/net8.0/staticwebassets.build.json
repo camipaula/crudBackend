@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kvJuoGzA2r2zHmnawNfuaN7X2kEOcSxVfHW2z+JeEZc=",
+  "Source": "crudBackend",
+  "BasePath": "_content/crudBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

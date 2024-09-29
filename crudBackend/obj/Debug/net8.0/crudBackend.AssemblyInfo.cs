@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crudBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e9872e92bf7e9abb96dca92dc78d6c01ea8521b")]
 [assembly: System.Reflection.AssemblyProductAttribute("crudBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crudBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
