@@ -24,6 +24,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//agregar para que se conecte con vue
+app.UseCors(builder =>
+    builder.WithOrigins("http://localhost:5173") // Cambia esto al puerto donde corre tu frontend
+           .AllowAnyMethod()
+           .AllowAnyHeader());
 
 app.UseHttpsRedirection();
 
