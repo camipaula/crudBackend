@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\migrations\\20240929182331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,12 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,22 +52,10 @@
               "RelativeDocumentMoniker": "crudBackend\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Properties\\launchSettings.json",
               "RelativeToolTip": "crudBackend\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-29T20:54:57.45Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240929182331_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
-              "RelativeDocumentMoniker": "crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
-              "RelativeToolTip": "crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:23:31.828Z"
             },
             {
               "$type": "Document",
@@ -93,7 +77,7 @@
               "RelativeDocumentMoniker": "crudBackend\\Program.cs",
               "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Program.cs",
               "RelativeToolTip": "crudBackend\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T18:06:43.793Z",
               "EditorCaption": ""
@@ -101,19 +85,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "crudBackend\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "crudBackend\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwA0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:06:25.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "crudBackend\\Models\\Producto.cs",
@@ -123,6 +94,35 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T17:49:54.272Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "crudBackend\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:06:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240929182331_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
+              "RelativeToolTip": "crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:23:31.828Z"
             },
             {
               "$type": "Document",
