@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mi\\source\\repos\\crudBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +31,24 @@
       "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\migrations\\20241003154906_logincreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\migrations\\20241003154906_logincreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\migrations\\20240929182331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\migrations\\20240929182331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\crudbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\crudbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182229_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:crudBackend\\Migrations\\20240929182229_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|c:\\users\\mi\\source\\repos\\crudbackend\\crudbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5956D04C-80C4-4E12-846C-B5E289789559}|crudBackend\\crudBackend.csproj|solutionrelative:crudbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,67 +66,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "crudBackend\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "crudBackend\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T20:54:57.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240929182229_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
-              "RelativeDocumentMoniker": "crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
-              "RelativeToolTip": "crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "crudBackend\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:22:29.917Z"
+              "WhenOpened": "2024-09-29T17:56:07.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Program.cs",
-              "RelativeDocumentMoniker": "crudBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Program.cs",
-              "RelativeToolTip": "crudBackend\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "crudBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:06:43.793Z"
+              "WhenOpened": "2024-10-03T15:33:28.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "crudBackend\\Models\\Producto.cs",
               "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Producto.cs",
               "RelativeToolTip": "crudBackend\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:49:54.272Z"
+              "WhenOpened": "2024-09-29T17:49:54.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Login.cs",
+              "RelativeToolTip": "crudBackend\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:37:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "crudBackend\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "crudBackend\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T18:06:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Program.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Program.cs",
+              "RelativeToolTip": "crudBackend\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:06:43.793Z",
               "EditorCaption": ""
             },
             {
@@ -111,7 +152,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "crudBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "crudBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T20:54:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241003154906_LoginCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20241003154906_LoginCreate.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Migrations\\20241003154906_LoginCreate.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20241003154906_LoginCreate.cs",
+              "RelativeToolTip": "crudBackend\\Migrations\\20241003154906_LoginCreate.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:49:07.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "20240929182331_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
               "RelativeDocumentMoniker": "crudBackend\\Migrations\\20240929182331_InitialCreate.cs",
@@ -123,7 +188,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "crudBackend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:44:54.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Models\\Register.cs",
+              "RelativeToolTip": "crudBackend\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:36:41.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "crudBackend",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\crudBackend.csproj",
+              "RelativeDocumentMoniker": "crudBackend\\crudBackend.csproj",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\crudBackend.csproj",
+              "RelativeToolTip": "crudBackend\\crudBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T22:44:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240929182229_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
+              "RelativeDocumentMoniker": "crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
+              "RelativeToolTip": "crudBackend\\Migrations\\20240929182229_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:22:29.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\appsettings.json",
               "RelativeDocumentMoniker": "crudBackend\\appsettings.json",
@@ -132,18 +244,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-29T17:58:35.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "crudBackend\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\mi\\source\\repos\\crudBackend\\crudBackend\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "crudBackend\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:56:07.769Z"
             }
           ]
         }

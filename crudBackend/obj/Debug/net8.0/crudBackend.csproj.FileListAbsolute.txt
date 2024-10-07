@@ -135,3 +135,9 @@ C:\Users\mi\source\repos\crudBackend\crudBackend\obj\Debug\net8.0\refint\crudBac
 C:\Users\mi\source\repos\crudBackend\crudBackend\obj\Debug\net8.0\crudBackend.pdb
 C:\Users\mi\source\repos\crudBackend\crudBackend\obj\Debug\net8.0\crudBackend.genruntimeconfig.cache
 C:\Users\mi\source\repos\crudBackend\crudBackend\obj\Debug\net8.0\ref\crudBackend.dll
+C:\Users\mi\source\repos\crudBackend\crudBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mi\source\repos\crudBackend\crudBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mi\source\repos\crudBackend\crudBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mi\source\repos\crudBackend\crudBackend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mi\source\repos\crudBackend\crudBackend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mi\source\repos\crudBackend\crudBackend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
